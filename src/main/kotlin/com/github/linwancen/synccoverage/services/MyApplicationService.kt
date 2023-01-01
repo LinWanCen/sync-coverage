@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.linwancen.synccoverage.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.linwancen.synccoverage.MyBundle
 
 class MyApplicationService {
 
